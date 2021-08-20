@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "The world's most adorable and sensitive pup.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdWgsZsWNbHW9aGh2AG8FnSLLkxw2piZmWBvXRc9VHtG8",
+  "name": "CobyNFT Asset 2"
+}
